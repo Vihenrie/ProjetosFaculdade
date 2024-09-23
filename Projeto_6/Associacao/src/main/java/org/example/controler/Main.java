@@ -3,7 +3,6 @@ package org.example.controler;
 import org.example.MODEL.Associado;
 import org.example.MODEL.Colaborador;
 import org.example.MODEL.Fornecedor;
-import org.example.MODEL.Pessoa;
 
 import java.util.Scanner;
 
